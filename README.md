@@ -40,7 +40,7 @@ Take a generic 1000-word AI article and elevate it to match a specific brand voi
 - GitHub (project documentation)
 
 ## View the Transformation
-[📄 Download Final PDF Showcase](deliverables/final-pdf/ai-content-transformation-showcase.pdf)
+[📄 Download Final PDF Showcase](deliverables/)
 
 ## About This Project
 This proof of concept demonstrates content transformation skills for freelance writing services. Shows ability to:
